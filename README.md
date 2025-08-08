@@ -43,7 +43,6 @@ The main objective is to build a binary classifier, evaluate it with various met
 ## 📈 Visualizations  
 - **Confusion Matrix:** Shows correct and incorrect predictions.  
 - **ROC Curve:** Displays classification threshold performance.  
-- **Sigmoid Function:** Demonstrates logistic regression probability mapping.  
 
 ---
 
